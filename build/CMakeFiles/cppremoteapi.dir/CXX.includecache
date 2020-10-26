@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/v_repConst.h
+
+/home/matheus/Documentos/Simulação_Vrep_Seguidor/main.cpp
+remoteApi/extApi.h
+/home/matheus/Documentos/Simulação_Vrep_Seguidor/remoteApi/extApi.h
+iostream
+-
+string.h
+-
+
+/home/matheus/Documentos/Simulação_Vrep_Seguidor/remoteApi/extApi.h
+extApiPlatform.h
+/home/matheus/Documentos/Simulação_Vrep_Seguidor/remoteApi/extApiPlatform.h
+v_repConst.h
+/home/matheus/Documentos/Simulação_Vrep_Seguidor/remoteApi/v_repConst.h
+
+/home/matheus/Documentos/Simulação_Vrep_Seguidor/remoteApi/extApiPlatform.h
+stdint.h
+-
+
